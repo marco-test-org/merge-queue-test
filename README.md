@@ -5,6 +5,7 @@
 
 ## Rulesets
 ### First
-<img width="2970" height="4320" alt="github com_marco-test-org_merge-queue-test_settings_rules_6959853" src="https://github.com/user-attachments/assets/dabcd74d-a036-4f6e-ad5c-c89517e0f70f" />
+<img width="2970" height="6644" alt="github com_marco-test-org_merge-queue-test_settings_rules (1)" src="https://github.com/user-attachments/assets/f5ff3f16-4080-43e8-b06c-85ffbba3cde4" />
+
 ### Second
 <img width="2970" height="4056" alt="github com_marco-test-org_merge-queue-test_settings_rules" src="https://github.com/user-attachments/assets/d18f576c-303d-4460-b5c4-b38b46c85510" />
