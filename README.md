@@ -2,3 +2,9 @@
 
 ## Access
 <img width="3192" height="1284" alt="image" src="https://github.com/user-attachments/assets/db9a9e42-1206-48e9-802e-451b2e7e1592" />
+
+## Rulesets
+### First
+<img width="2970" height="4320" alt="github com_marco-test-org_merge-queue-test_settings_rules_6959853" src="https://github.com/user-attachments/assets/dabcd74d-a036-4f6e-ad5c-c89517e0f70f" />
+### Second
+<img width="2970" height="4056" alt="github com_marco-test-org_merge-queue-test_settings_rules" src="https://github.com/user-attachments/assets/d18f576c-303d-4460-b5c4-b38b46c85510" />
