@@ -1,0 +1,12 @@
+name: CI # Continuous Integration
+
+on:
+  pull_request:
+  merge_group:
+
+jobs:
+  fmt:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
