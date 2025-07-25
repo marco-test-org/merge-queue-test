@@ -2,6 +2,11 @@
 
 Issue: merge queue doesn't work if the creation of new branches is disabled.
 
+Error:
+<img width="3150" height="660" alt="image" src="https://github.com/user-attachments/assets/4ff3c273-4633-44f7-be15-b5812fdb08d6" />
+
+In the following, you can see how I configured the repo.
+
 ## Access
 <img width="3192" height="1284" alt="image" src="https://github.com/user-attachments/assets/db9a9e42-1206-48e9-802e-451b2e7e1592" />
 
